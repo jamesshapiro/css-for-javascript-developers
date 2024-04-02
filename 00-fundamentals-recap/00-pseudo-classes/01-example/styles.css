@@ -1,0 +1,17 @@
+html {
+  background-color: #222;
+}
+
+.wrapper {
+  margin: 150px;
+  padding: 150px;
+  background-color: #aaa;
+  max-width: 300px;
+  border-radius: 20px;
+}
+
+button:focus {
+  border: 2px solid royalblue;
+  background: red;
+  color: white;
+}
