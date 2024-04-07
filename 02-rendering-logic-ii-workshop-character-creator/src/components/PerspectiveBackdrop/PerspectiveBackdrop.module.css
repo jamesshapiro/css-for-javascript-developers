@@ -1,0 +1,12 @@
+.perspectiveBackdrop {
+  position: absolute;
+  top: 68%;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  height: 60%;
+  z-index: -2;
+  min-width: 100%;
+  padding: auto;
+  background-color: hsl(189, 19%, 85%);
+}
